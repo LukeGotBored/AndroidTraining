@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="reset">Reset</string>
+    <string name="hint">Name</string>
+    <string name="test">Test</string>
+    <string name="play">Play</string>
+</resources>
